@@ -1,0 +1,28 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Django
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+*.pot
+
+# /migrations/.py
+# !*/migrations/_init_.py
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
